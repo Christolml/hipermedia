@@ -1,0 +1,19 @@
+{
+  "name": "21agosto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serve.js",
+  "engines": {
+    "node": "8.9.4",
+    "npm": "6.2.0"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node serve.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
